@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superuserockx&show_icons=true" alt="superuserockx" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pinaq-s-634907129/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pinaq-s-634907129/" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/superuserockx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="superuserockx" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/superuserockx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="superuserockx" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pinaq-s-634907129/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pinaq-s-634907129/" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/superuserockx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="superuserockx" height="30" width="30" /></a>
+<a href="https://www.geeksforgeeks.org//superuserockx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="superuserockx" height="30" width="30" /></a>
 </p>
