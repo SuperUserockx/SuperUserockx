@@ -15,7 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superuserockx&layout=compact&hide=html" alt="superuserockx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superuserockx&show_icons=true" alt="superuserockx" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=superuserockx&show_icons=true" alt="superuserockx" /></p>
+
+<br><br><br><br><br><br><br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pinaq-s-634907129/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pinaq-s-634907129/" height="30" width="30" /></a>
