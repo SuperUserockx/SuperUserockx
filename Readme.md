@@ -23,4 +23,3 @@
 <a href="https://auth.geeksforgeeks.org/user/superuserockx/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="superuserockx" height="30" width="30" /></a>
 </p>
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
